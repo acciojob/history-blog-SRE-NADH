@@ -1,0 +1,4 @@
+{
+    "testRepo": "history-blog-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
